@@ -1,5 +1,5 @@
 # Dijkstra's Shortest Path
-University individual assignment to implement Dijkstra’s shortest path algorithm using Java and OOP concepts.
+University individual assignment to implement Dijkstra’s shortest path algorithm using Java and OOP concepts. (SOFTENG 281, 2021)
 ##### Author: Rachel Nataatmadja
 
 I had to:
